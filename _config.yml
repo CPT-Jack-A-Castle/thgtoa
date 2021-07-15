@@ -50,5 +50,5 @@ social:
     - https://mastodon.social/@anonypla
     - https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601
 include:
-    - '/.well-known/matrix/server'
+    - /.well-known/matrix/server
     
